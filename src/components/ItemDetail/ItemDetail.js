@@ -61,7 +61,7 @@ const ItemDetail = ({ id, name, category, img, price, stock, description}) => {
                 </h2>
             </header>
             <picture>
-                <img src={`./images/${img}`} alt={img} className="ItemImg"/>
+                <img src={`/images/${img}`} alt={img} className="ItemImg"/>
             </picture>
             <section>
                 <p className="Info">
