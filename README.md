@@ -1,3 +1,5 @@
+![](./public/modo_uso.gif){width='300px'}
+
 # Tienda de Audio y Vinilos 
 
 # Instrucciones y herramientas
